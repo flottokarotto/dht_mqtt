@@ -1,6 +1,6 @@
 # Description
 Read temperature/humidity from DHT Sensor using pigpio and send the results to a mqtt broker.
-Intended to use with Home Assistant.
+Intended to use with Home Assistant and Raspberry Pi.
 
 The Broker url and the topics are hard coded. 
 
